@@ -130,10 +130,10 @@
 ####	Diagram ERD
 ![alt text][logo]
 
-[logo]: https://github.com/UR-INF/20-21-ai-projekt-lab3-p-saja-m-mocha-s-plaza/blob/main/DiagramERD.jpeg "DiagramERD"
+[logo]: https://github.com/SebaPL21/Plant_Store/blob/main/DiagramERD.jpeg "DiagramERD"
 
 ####	Skrypt do utworzenia struktury bazy danych
-[plantstoredb.sql](https://github.com/UR-INF/20-21-ai-projekt-lab3-p-saja-m-mocha-s-plaza/blob/main/plantstoredb.sql)
+[plantstoredb.sql](https://github.com/SebaPL21/Plant_Store/blob/main/plantstoredb.sql)
 ## Wykorzystane technologie
 
 PHP, HTML, CSS, Bootstrap, JQuery, JS, MySQL
