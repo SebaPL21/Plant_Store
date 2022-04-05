@@ -1,7 +1,6 @@
 # Projekt zaliczeniowy z przedmiotu: _**Aplikacje internetowe**_
 
 # Temat projektu: Internetowy sklep z roślinami
-## Skład grupy: Piotr Saja, Sebastian Płaza, Marcin Mocha
 ## Specyfikacja projektu
 ### Cel projektu : Ułatwienie zakupów roślin do domu i ogrodu.
 #### Cele szczegółowe:
@@ -23,7 +22,7 @@
    <details>
        <summary>Ekran główny </summary>
 	
-![home](https://github.com/UR-INF/20-21-ai-projekt-lab3-p-saja-m-mocha-s-plaza/blob/main/images/home1.JPG)
+![home](https://github.com/SebaPL21/Plant_Store/blob/main/images/home1.JPG)
 
    </details>
 	<details>
